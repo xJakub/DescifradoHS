@@ -1,1 +1,2 @@
 # DescifradoHS
+This is a my solution to a university task. We had to make a tool to help the user find the contents of a ciphered file, using simple letter substitution (each ciphered letter corresponds to a letter in the alphabet). My solution is able to automatically decipher the entire text using a DFS algorithm.
